@@ -46,7 +46,7 @@ function Footer() {
 
     <div className="text-center text-blue-900 mt-5 pb-2 text-2xl">
     <p>© SnapShop {new Date().getFullYear()}</p>
-    <p>Built with love by Aman Harsh</p>
+    <p>Built with love by Meenakshi </p>
     </div>
     </footer>
   );
